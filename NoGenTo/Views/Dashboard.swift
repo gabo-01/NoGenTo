@@ -1,8 +1,8 @@
-//
-//  Dashboard.swift
-//  NoGenTo
-//
-//  Created by Fernando Gabriel Martinez on 20/07/25.
-//
-
-import Foundation
+import SwiftUI
+struct Dashboard: View {
+    var body:some View{
+        VStack{
+            Text("Dashboard")
+        }
+    }
+}
